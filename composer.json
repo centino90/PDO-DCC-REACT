@@ -1,0 +1,14 @@
+{
+    "name": "aj/shareposts",
+    "authors": [
+        {
+            "name": "centino90",
+            "email": "anthonyjayansit2326282@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0",
+        "phpmailer/phpmailer": "^6.5",
+        "phpoffice/phpspreadsheet": "^1.20"
+    }
+}
